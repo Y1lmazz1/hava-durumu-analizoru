@@ -3,10 +3,10 @@
 Bu proje, Python kullanarak ücretsiz bir şekilde hava durumu verilerini analiz eder.
 
 ## 🛠️ Kullanılan Teknolojiler
-- **Python 3.x**
-- **Open-Meteo API** (Hava durumu verileri için)
-- **Geocoding API** (Koordinat dönüşümü için)
-- **Requests** kütüphanesi
+- **Python 3
+- **Open-Meteo API (Hava durumu verileri için)
+- **Geocoding API*(Koordinat dönüşümü için)
+- **Requests kütüphanesi
 
 ## 🚀 Başlangıç
 Projeyi yerelinizde çalıştırmak için:
